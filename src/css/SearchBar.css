@@ -1,0 +1,35 @@
+.form{
+    width: 60%;
+    height:auto;
+    font-size: 1.3em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form div{
+    
+    padding: 5px;
+}
+
+.form input{
+    padding: 10px;
+    margin: 5px 25px;
+}
+
+.form button{
+    padding: 10px;
+    margin: 10px;
+    
+    
+ }
+
+ .sortSelector button{
+    background-color: transparent;
+    border: transparent ;
+
+ }
+
+ .sortSelector button:hover{
+    color: #e6be2f;
+ }

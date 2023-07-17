@@ -1,0 +1,26 @@
+.container {
+    background-color: aliceblue;
+    text-align: center;
+    border: #e6be2f dotted 2px;
+    border-radius: 10px;
+    width: 250px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 40px;
+    padding: 10px;
+    
+    
+}
+
+.container img{
+    width: 100%;
+}
+
+
+.info {
+    
+    display: flex;
+    width: 100%;
+}

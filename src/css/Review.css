@@ -1,0 +1,16 @@
+.righ{
+width: 50%;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+
+}
+
+.righ p{
+
+
+    font-weight: bold;
+    text-align: right;
+    padding: 5px;
+    margin: 0;
+}
